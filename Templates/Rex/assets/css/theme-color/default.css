@@ -4,176 +4,176 @@ Author URI : http://www.markups.io/
 ========================================*/
 
 .header-content h2 span {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .knowmore-btn:hover,
 .knowmore-btn:focus,
 .download-btn:hover,
 .download-btn:focus{
-  background-color: #00D999;
-  border-color: #00D999;
+  background-color: rgb(101,204,11);
+  border-color: rgb(101,204,11);
 }
 .main-nav li a:hover{
-  color: #00d999;
+  color: rgb(101,204,11);
 } 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .search-area input[type="text"]:focus:hover {
-  border-bottom: 1px solid #00d999;  
+  border-bottom: 1px solid rgb(101,204,11);  
 }
 .search-area input[type="text"]:focus {
-  border-bottom: 1px solid #00d999;  
+  border-bottom: 1px solid rgb(101,204,11);  
 }
 .search-area input[type="submit"] {
-  background-color: #00d999;  
+  background-color: rgb(101,204,11);  
 }
 .tittle>span{
-  color: #00d999;
+  color:  rgb(101,204,11);
 }
 .single-wc-content span {
-  border: 1px solid #00d999;
-  color: #00d999;
+  border: 1px solid rgb(101,204,11);
+  color: rgb(101,204,11);
 }
 .single-wc-content:hover .wc-icon{
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
 }
 .single-wc-content:hover .wc-tittle{
-  border-bottom: 2px solid #00d999;  
+  border-bottom: 2px solid rgb(101,204,11);  
 }
 .about-left {
-  background-color: #00d999;  
+  background-color: rgb(101,204,11);  
 }
 .button-default {  
-  border: 2px solid #00d999 !important;
-  color: #00d999 !important;
+  border: 2px solid rgb(101,204,11) !important;
+  color: rgb(101,204,11) !important;
 }
 .button-default:hover {
-  border-color: #00d999;
+  border-color: rgb(101,204,11);
 }
 .button-default:hover,
 .button-default:focus {
-  border-color: #00d999;
+  border-color: rgb(101,204,11);
   background-color: #00d999 !important;  
 }
 .introduction-btn {
-  background-color: rgba(0, 217, 153, 0.8);
+  background-color: rgb(101,204,11);
 }
 .team-info {
-  background: rgba(0, 217, 153, 0.8);
+  background: rgb(101,204,11);
 }  
 .team-grid li:hover .team-address p {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .single-service {
-  border-bottom: 5px solid #00d999;
+  border-bottom: 5px solid rgb(101,204,11);
 }
 .single-service:hover:after{  
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
 }
 .single-service:hover .service-icon{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .single-service:hover .service-title{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .single-counter > span {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .single-price .price-header {
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
  }
  .single-price .price-header::after {
-  color: #00d999;  
+  color: rgb(101,204,11);  
 }
 .single-price .price-amount {
-  border-bottom: 1px solid #00d999;
-  color: #00d999;  
+  border-bottom: 1px solid rgb(101,204,11);
+  color: rgb(101,204,11);  
 }
 .single-price a {
-  border-bottom: 1px solid #00d999;
+  border-bottom: 1px solid rgb(101,204,11);
 }
 .standard-price a{
-  background-color: #00d999;  
+  background-color: rgb(101,204,11);  
 }
 .single-from-blog .blog-title h2 a:hover,
 .single-from-blog .blog-title h2 a:focus{
-  color: #00d999; 
+  color: rgb(101,204,11); 
 }
 .single-from-blog .blog-title .blog-admin{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .single-from-blog .blog-footer a:hover,
 .single-from-blog .blog-footer a:focus { 
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .contact-form .form-control:focus {
-  border-color: #00d999;   
+  border-color: rgb(101,204,11);   
 } 
 .portfolio-menu ul li:hover{
-  color: #00d999;
-  border-color: #00d999;  
+  color: rgb(101,204,11);
+  border-color: rgb(101,204,11);  
 }
 .portfolio-social-icon a {
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
 }
 .portfolio-title {
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
 }
 .blog-banner-area .breadcrumb li.active{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .blog-pagination > li > a:hover,
 .blog-pagination > li > span:hover,
 .blog-pagination > li > a:focus,
 .blog-pagination > li > span:focus{
-  background-color: #00d999;  
-  border-color:#00d999;  
+  background-color: rgb(101,204,11);  
+  border-color:rgb(101,204,11);  
 }
 .single-widget h2 {
-  border-left: 3px solid #00d999;  
+  border-left: 3px solid rgb(101,204,11);  
 }
 .popular-post-widget .media-heading a:hover,
 .popular-post-widget .media-heading a:focus{
-  color: #00d999;  
+  color: rgb(101,204,11);  
 }
 .instagram-feed .slick-prev::before,
 .instagram-feed .slick-next::before {
-  color: #00d999;  
+  color: rgb(101,204,11);  
 }
 .instagram-feed .slick-dots li.slick-active button{
-  background-color: #00d999;
+  background-color: rgb(101,204,11);
 }
 .instagram-feed .slick-dots li.slick-active button::before{
   color: #00d999
 }
 .comment-form .form-control:focus {
-  border-color: #00d999;   
+  border-color: rgb(101,204,11);   
 } 
 .error-no {
-  border: 2px solid #00d999;  
+  border: 2px solid rgb(101,204,11);  
 }
 .error-no p {
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .blog-details-content>a:hover{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .scrollToTop {  
-  color: #00d999;  
+  color: rgb(101,204,11);  
 }
 .scrollToTop:hover,
 .scrollToTop:focus{  
-  background-color: #00d999; 
+  background-color: rgb(101,204,11); 
 }
 .loader {  
-  background: #00d999;
+  background: rgb(101,204,11);
   background: -moz-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
   background: -webkit-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
   background: -o-linear-gradient(left, #00d999 10%, rgba(255, 255, 255, 0) 42%);
@@ -181,21 +181,21 @@ Author URI : http://www.markups.io/
   background: linear-gradient(to right, #00d999 10%, rgba(255, 255, 255, 0) 42%);  
 }
 .loader:before {
-  background: #00d999; 
+  background: rgb(101,204,11); 
 }
 .footer-bottom p a{
-  color: #00d999;
+  color: rgb(101,204,11);
 }
 .blog-pagination > li > a,
 .blog-pagination > li > span {
-  color: #00d999; 
+  color: rgb(101,204,11); 
 }
 .blog-pagination > li > a:hover,
 .blog-pagination > li > span:hover,
 .blog-pagination > li > a:focus,
 .blog-pagination > li > span:focus{
-  background-color: #00d999;  
-  border-color:#00d999;
+  background-color: rgb(101,204,11);  
+  border-color:rgb(101,204,11);
 }
 
 /*=======================================

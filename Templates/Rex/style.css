@@ -45,7 +45,11 @@ body {
 	color: #838282;
 }
 ul{
-	padding: 0;
+	padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 200px;
+	
 	margin: 0;
 	list-style: none;
 }
@@ -296,14 +300,15 @@ img{
 }
 .logo {
 	height: 100px;  
-	width: 85px;
+	width: 200px;
 	margin-right: 45px;
 	margin-top: -1px;
 	padding: 0;
 }
 .logo-compressed {
-	height: 80px;  
-	width: 70px;
+	height: 82px;  
+	width: 160px;
+	z-index: 9999999999999;
 }
 .logo img {
 	height: 100%;
