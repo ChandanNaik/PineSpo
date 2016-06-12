@@ -641,6 +641,9 @@ img{
 	transform: translate3d(0, -25%, 0);
 }
 
+.football:hover{
+    content:url("assets/images/about-img-alternate.png")
+}
 /*--------------------*/
 /* CALL TO ACTION */
 /*--------------------*/
